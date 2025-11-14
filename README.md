@@ -124,7 +124,7 @@ npm run dev
 
 ```bash
 # Using Git
-git clone https://github.com/rajputshivamthakur/ask-Management-Application-with-Mocked-API.git
+git clone https://github.com/rajputshivamthakur/task-Management-Application-with-Mocked-API.git
 cd taskflow-mocked-api-main
 
 # Or download ZIP and extract
